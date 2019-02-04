@@ -36,7 +36,7 @@ AFRAME.registerComponent('blink', {
 ![http://webmr.io/docs/architecture/](https://fabien.benetou.fr/pub/home/WebARFOSDEM2019/codearch.png)
 
 Video demo 
-[![Youtube link](http://fabien.benetou.fr/pub/home/WebARFOSDEM2019/blink-component-video-preview.jpg)](https://www.youtube.com/watch?v=HolgnP7TRBI "Youtube link")
+[![Youtube link](http://fabien.benetou.fr/pub/home/WebARFOSDEM2019/blink-component-video-preview-pip.jpg)](https://youtu.be/lQBHJS13yl4 "Youtube link")
 
 Live link https://exokit.glitch.me/blinkbuilder.html
 
