@@ -22,6 +22,14 @@ AFRAME.registerComponent('blink', {
 });
 ```
 
+## How to try it
+
+1. install exokit on your MagicLeap
+1. use the component on your AFrame page
+1. remove the <a-sky> primivite from your scene
+1. open the URL of your page on exokit (cf CLI instructions)
+1. don't forget to blink!
+
 ## How does it work
 
 ![http://webmr.io/docs/architecture/](https://cdn.rawgit.com/webmixedreality/webmr-docs/media-upload/website/static/media/exokitmediacopy/architecture.jpg)
