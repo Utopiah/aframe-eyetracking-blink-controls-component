@@ -1,7 +1,7 @@
 # aframe-eyetracking-blink-controls-component
 Using blink in MagicLeap eye tracking system to realize an action
 
-Note that this is a pedagogical proof of concept. This is in no way intended to be used in a production ready environment but solely to show that
+Note that this is a **pedagogical proof of concept**. This is in no way intended to be used in a production ready environment but solely to show that
 - it is possible
 - the ECS architecture keeps on being relevant in WebXR
 - a pure javascript workflow for high end AR is possible including to the highest level of abstraction
