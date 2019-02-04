@@ -32,7 +32,7 @@ AFRAME.registerComponent('blink', {
 
 ## How does it work
 
-![http://webmr.io/docs/architecture/](https://cdn.rawgit.com/webmixedreality/webmr-docs/media-upload/website/static/media/exokitmediacopy/architecture.jpg)
+![http://webmr.io/docs/architecture/](https://fabien.benetou.fr/pub/home/WebARFOSDEM2019/codearch.png)
 
 Video demo 
 
