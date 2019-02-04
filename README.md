@@ -7,6 +7,10 @@ Note that this is a pedagogical proof of concept. This is in no way intended to 
 - a pure javascript workflow for high end AR is possible including to the highest level of abstraction
 The component itself could be a lot richer and reliable but this was not the point then.
 
+In practice it means this component gets executed by exokit running node on the MagicLeap with native bindings.
+
+![http://webmr.io/docs/architecture/](https://cdn.rawgit.com/webmixedreality/webmr-docs/media-upload/website/static/media/exokitmediacopy/architecture.jpg)
+
 Video demo 
 
 ![https://www.youtube.com/watch?v=HolgnP7TRBI](http://fabien.benetou.fr/pub/home/WebARFOSDEM2019/blink-component-video-preview.jpg)
