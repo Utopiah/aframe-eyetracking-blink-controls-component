@@ -9,6 +9,21 @@ The component itself could be a lot richer and reliable but this was not the poi
 
 In practice it means this component gets executed by exokit running node on the MagicLeap with native bindings.
 
+## Code
+```javascript
+AFRAME.registerComponent('blink', {
+  init: function () { eyetracker = browser.magicleap.RequestEyeTracking() },
+  // browser.magicleap made available via exokit
+  tick: function() {
+    if (!eyetracker) return
+    if (eyetracker.eyes[0].blink){ /* do something */ }
+    // cf https://github.com/webmixedreality/exokit/blob/master/docs/magicleap.md
+  }
+});
+```
+
+## How does it work
+
 ![http://webmr.io/docs/architecture/](https://cdn.rawgit.com/webmixedreality/webmr-docs/media-upload/website/static/media/exokitmediacopy/architecture.jpg)
 
 Video demo 
