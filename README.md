@@ -1,3 +1,4 @@
+
 # aframe-eyetracking-blink-controls-component
 Using blink in MagicLeap eye tracking system to realize an action
 
@@ -35,9 +36,7 @@ AFRAME.registerComponent('blink', {
 ![http://webmr.io/docs/architecture/](https://fabien.benetou.fr/pub/home/WebARFOSDEM2019/codearch.png)
 
 Video demo 
-
-![https://www.youtube.com/watch?v=HolgnP7TRBI](http://fabien.benetou.fr/pub/home/WebARFOSDEM2019/blink-component-video-preview.jpg)
-[Youtube link](https://www.youtube.com/watch?v=HolgnP7TRBI)
+[![Youtube link](http://fabien.benetou.fr/pub/home/WebARFOSDEM2019/blink-component-video-preview.jpg)](https://www.youtube.com/watch?v=HolgnP7TRBI "Youtube link")
 
 Live link https://exokit.glitch.me/blinkbuilder.html
 
