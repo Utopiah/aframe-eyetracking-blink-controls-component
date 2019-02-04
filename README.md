@@ -23,6 +23,13 @@ AFRAME.registerComponent('blink', {
 });
 ```
 
+## But why?!
+Somebody asked me during FOSDEM what was AR good for. Honestly I won't pretend I know what an evolving  set of technologies is good for but what I can do though is make suggestions :
+* paint in AR without having to use hands (could use A-painter) because you are physically unable to
+* overall interact in AR without having to use hands because you are busy doing other things e.g surgery and voice recognition is way too slow
+* detect blink to swap elements of a scene e.g a horror game
+* use blink to detect fatigue and suggest pauses without the HMD
+
 ## How to try it
 
 1. install exokit on your MagicLeap
