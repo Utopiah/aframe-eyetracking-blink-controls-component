@@ -1,4 +1,5 @@
 
+
 # aframe-eyetracking-blink-controls-component
 Using blink in MagicLeap eye tracking system to realize an action
 
@@ -29,6 +30,7 @@ Somebody asked me during FOSDEM what was AR good for. Honestly I won't pretend I
 * overall interact in AR without having to use hands because you are busy doing other things e.g surgery and voice recognition is way too slow
 * detect blink to swap elements of a scene e.g a horror game
 * use blink to detect fatigue and suggest pauses without the HMD
+* estimate and correct vision problems cf e.g https://www.eyeskills.org
 Overall though and as mentioned before the point is **not** to provide a complete list of ideas on how to use AR on the web but rather to show that it can be very easy for anybody who is not a developer to conceive then test radically new usages.  
 
 ## How to try it
